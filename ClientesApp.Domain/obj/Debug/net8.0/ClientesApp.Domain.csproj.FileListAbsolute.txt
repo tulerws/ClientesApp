@@ -1,0 +1,11 @@
+G:\Projetos\PROJETOS COTI\Csharp aprendendo\Csharp COTI\SQS MANHA 2\ClientesApp\ClientesApp.Domain\bin\Debug\net8.0\ClientesApp.Domain.deps.json
+G:\Projetos\PROJETOS COTI\Csharp aprendendo\Csharp COTI\SQS MANHA 2\ClientesApp\ClientesApp.Domain\bin\Debug\net8.0\ClientesApp.Domain.dll
+G:\Projetos\PROJETOS COTI\Csharp aprendendo\Csharp COTI\SQS MANHA 2\ClientesApp\ClientesApp.Domain\bin\Debug\net8.0\ClientesApp.Domain.pdb
+G:\Projetos\PROJETOS COTI\Csharp aprendendo\Csharp COTI\SQS MANHA 2\ClientesApp\ClientesApp.Domain\obj\Debug\net8.0\ClientesApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projetos\PROJETOS COTI\Csharp aprendendo\Csharp COTI\SQS MANHA 2\ClientesApp\ClientesApp.Domain\obj\Debug\net8.0\ClientesApp.Domain.AssemblyInfoInputs.cache
+G:\Projetos\PROJETOS COTI\Csharp aprendendo\Csharp COTI\SQS MANHA 2\ClientesApp\ClientesApp.Domain\obj\Debug\net8.0\ClientesApp.Domain.AssemblyInfo.cs
+G:\Projetos\PROJETOS COTI\Csharp aprendendo\Csharp COTI\SQS MANHA 2\ClientesApp\ClientesApp.Domain\obj\Debug\net8.0\ClientesApp.Domain.csproj.CoreCompileInputs.cache
+G:\Projetos\PROJETOS COTI\Csharp aprendendo\Csharp COTI\SQS MANHA 2\ClientesApp\ClientesApp.Domain\obj\Debug\net8.0\ClientesApp.Domain.dll
+G:\Projetos\PROJETOS COTI\Csharp aprendendo\Csharp COTI\SQS MANHA 2\ClientesApp\ClientesApp.Domain\obj\Debug\net8.0\refint\ClientesApp.Domain.dll
+G:\Projetos\PROJETOS COTI\Csharp aprendendo\Csharp COTI\SQS MANHA 2\ClientesApp\ClientesApp.Domain\obj\Debug\net8.0\ClientesApp.Domain.pdb
+G:\Projetos\PROJETOS COTI\Csharp aprendendo\Csharp COTI\SQS MANHA 2\ClientesApp\ClientesApp.Domain\obj\Debug\net8.0\ref\ClientesApp.Domain.dll

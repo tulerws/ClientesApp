@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nG8JNFDD15KlcvCqpG18JS9c+bZJKieIUbEQQcjRi94=",
+  "Source": "ClientesApp.API",
+  "BasePath": "_content/ClientesApp.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

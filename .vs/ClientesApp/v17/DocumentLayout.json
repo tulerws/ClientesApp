@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Projetos\\PROJETOS COTI\\Csharp aprendendo\\Csharp COTI\\SQS MANHA 2\\ClientesApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09491B01-7043-41FC-B5F3-C8903A1B0170}|ClientesApp.API\\ClientesApp.API.csproj|g:\\projetos\\projetos coti\\csharp aprendendo\\csharp coti\\sqs manha 2\\clientesapp\\clientesapp.api\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09491B01-7043-41FC-B5F3-C8903A1B0170}|ClientesApp.API\\ClientesApp.API.csproj|solutionrelative:clientesapp.api\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D26F6A4-BDFE-4627-9864-E095FF55434A}|ClientesApp.Domain\\ClientesApp.Domain.csproj|g:\\projetos\\projetos coti\\csharp aprendendo\\csharp coti\\sqs manha 2\\clientesapp\\clientesapp.domain\\services\\clientedomainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D26F6A4-BDFE-4627-9864-E095FF55434A}|ClientesApp.Domain\\ClientesApp.Domain.csproj|solutionrelative:clientesapp.domain\\services\\clientedomainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D26F6A4-BDFE-4627-9864-E095FF55434A}|ClientesApp.Domain\\ClientesApp.Domain.csproj|g:\\projetos\\projetos coti\\csharp aprendendo\\csharp coti\\sqs manha 2\\clientesapp\\clientesapp.domain\\interfaces\\services\\iclientedomainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D26F6A4-BDFE-4627-9864-E095FF55434A}|ClientesApp.Domain\\ClientesApp.Domain.csproj|solutionrelative:clientesapp.domain\\interfaces\\services\\iclientedomainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D26F6A4-BDFE-4627-9864-E095FF55434A}|ClientesApp.Domain\\ClientesApp.Domain.csproj|g:\\projetos\\projetos coti\\csharp aprendendo\\csharp coti\\sqs manha 2\\clientesapp\\clientesapp.domain\\interfaces\\repositories\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D26F6A4-BDFE-4627-9864-E095FF55434A}|ClientesApp.Domain\\ClientesApp.Domain.csproj|solutionrelative:clientesapp.domain\\interfaces\\repositories\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C1F97AF-7E24-432B-A529-E234C4CCF81B}|ClientesApp.Infra.Data\\ClientesApp.Infra.Data.csproj|g:\\projetos\\projetos coti\\csharp aprendendo\\csharp coti\\sqs manha 2\\clientesapp\\clientesapp.infra.data\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C1F97AF-7E24-432B-A529-E234C4CCF81B}|ClientesApp.Infra.Data\\ClientesApp.Infra.Data.csproj|solutionrelative:clientesapp.infra.data\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09491B01-7043-41FC-B5F3-C8903A1B0170}|ClientesApp.API\\ClientesApp.API.csproj|g:\\projetos\\projetos coti\\csharp aprendendo\\csharp coti\\sqs manha 2\\clientesapp\\clientesapp.api\\configurations\\corsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09491B01-7043-41FC-B5F3-C8903A1B0170}|ClientesApp.API\\ClientesApp.API.csproj|solutionrelative:clientesapp.api\\configurations\\corsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09491B01-7043-41FC-B5F3-C8903A1B0170}|ClientesApp.API\\ClientesApp.API.csproj|g:\\projetos\\projetos coti\\csharp aprendendo\\csharp coti\\sqs manha 2\\clientesapp\\clientesapp.api\\dtos\\request\\updateclienterequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09491B01-7043-41FC-B5F3-C8903A1B0170}|ClientesApp.API\\ClientesApp.API.csproj|solutionrelative:clientesapp.api\\dtos\\request\\updateclienterequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09491B01-7043-41FC-B5F3-C8903A1B0170}|ClientesApp.API\\ClientesApp.API.csproj|g:\\projetos\\projetos coti\\csharp aprendendo\\csharp coti\\sqs manha 2\\clientesapp\\clientesapp.api\\dtos\\request\\createclienterequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09491B01-7043-41FC-B5F3-C8903A1B0170}|ClientesApp.API\\ClientesApp.API.csproj|solutionrelative:clientesapp.api\\dtos\\request\\createclienterequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09491B01-7043-41FC-B5F3-C8903A1B0170}|ClientesApp.API\\ClientesApp.API.csproj|g:\\projetos\\projetos coti\\csharp aprendendo\\csharp coti\\sqs manha 2\\clientesapp\\clientesapp.api\\dtos\\response\\createclienteresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09491B01-7043-41FC-B5F3-C8903A1B0170}|ClientesApp.API\\ClientesApp.API.csproj|solutionrelative:clientesapp.api\\dtos\\response\\createclienteresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09491B01-7043-41FC-B5F3-C8903A1B0170}|ClientesApp.API\\ClientesApp.API.csproj|g:\\projetos\\projetos coti\\csharp aprendendo\\csharp coti\\sqs manha 2\\clientesapp\\clientesapp.api\\dtos\\response\\getclienteresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09491B01-7043-41FC-B5F3-C8903A1B0170}|ClientesApp.API\\ClientesApp.API.csproj|solutionrelative:clientesapp.api\\dtos\\response\\getclienteresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09491B01-7043-41FC-B5F3-C8903A1B0170}|ClientesApp.API\\ClientesApp.API.csproj|g:\\projetos\\projetos coti\\csharp aprendendo\\csharp coti\\sqs manha 2\\clientesapp\\clientesapp.api\\dtos\\response\\updateclienteresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09491B01-7043-41FC-B5F3-C8903A1B0170}|ClientesApp.API\\ClientesApp.API.csproj|solutionrelative:clientesapp.api\\dtos\\response\\updateclienteresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D26F6A4-BDFE-4627-9864-E095FF55434A}|ClientesApp.Domain\\ClientesApp.Domain.csproj|g:\\projetos\\projetos coti\\csharp aprendendo\\csharp coti\\sqs manha 2\\clientesapp\\clientesapp.domain\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D26F6A4-BDFE-4627-9864-E095FF55434A}|ClientesApp.Domain\\ClientesApp.Domain.csproj|solutionrelative:clientesapp.domain\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09491B01-7043-41FC-B5F3-C8903A1B0170}|ClientesApp.API\\ClientesApp.API.csproj|g:\\projetos\\projetos coti\\csharp aprendendo\\csharp coti\\sqs manha 2\\clientesapp\\clientesapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09491B01-7043-41FC-B5F3-C8903A1B0170}|ClientesApp.API\\ClientesApp.API.csproj|solutionrelative:clientesapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C1F97AF-7E24-432B-A529-E234C4CCF81B}|ClientesApp.Infra.Data\\ClientesApp.Infra.Data.csproj|g:\\projetos\\projetos coti\\csharp aprendendo\\csharp coti\\sqs manha 2\\clientesapp\\clientesapp.infra.data\\contexts\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C1F97AF-7E24-432B-A529-E234C4CCF81B}|ClientesApp.Infra.Data\\ClientesApp.Infra.Data.csproj|solutionrelative:clientesapp.infra.data\\contexts\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C1F97AF-7E24-432B-A529-E234C4CCF81B}|ClientesApp.Infra.Data\\ClientesApp.Infra.Data.csproj|g:\\projetos\\projetos coti\\csharp aprendendo\\csharp coti\\sqs manha 2\\clientesapp\\clientesapp.infra.data\\mappings\\clientemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C1F97AF-7E24-432B-A529-E234C4CCF81B}|ClientesApp.Infra.Data\\ClientesApp.Infra.Data.csproj|solutionrelative:clientesapp.infra.data\\mappings\\clientemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C1F97AF-7E24-432B-A529-E234C4CCF81B}|ClientesApp.Infra.Data\\ClientesApp.Infra.Data.csproj|g:\\projetos\\projetos coti\\csharp aprendendo\\csharp coti\\sqs manha 2\\clientesapp\\clientesapp.infra.data\\migrations\\20240524125729_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C1F97AF-7E24-432B-A529-E234C4CCF81B}|ClientesApp.Infra.Data\\ClientesApp.Infra.Data.csproj|solutionrelative:clientesapp.infra.data\\migrations\\20240524125729_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C1F97AF-7E24-432B-A529-E234C4CCF81B}|ClientesApp.Infra.Data\\ClientesApp.Infra.Data.csproj|g:\\projetos\\projetos coti\\csharp aprendendo\\csharp coti\\sqs manha 2\\clientesapp\\clientesapp.infra.data\\migrations\\20240524125541_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C1F97AF-7E24-432B-A529-E234C4CCF81B}|ClientesApp.Infra.Data\\ClientesApp.Infra.Data.csproj|solutionrelative:clientesapp.infra.data\\migrations\\20240524125541_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClienteDomainService.cs",
+              "DocumentMoniker": "G:\\Projetos\\PROJETOS COTI\\Csharp aprendendo\\Csharp COTI\\SQS MANHA 2\\ClientesApp\\ClientesApp.Domain\\Services\\ClienteDomainService.cs",
+              "RelativeDocumentMoniker": "ClientesApp.Domain\\Services\\ClienteDomainService.cs",
+              "ToolTip": "G:\\Projetos\\PROJETOS COTI\\Csharp aprendendo\\Csharp COTI\\SQS MANHA 2\\ClientesApp\\ClientesApp.Domain\\Services\\ClienteDomainService.cs",
+              "RelativeToolTip": "ClientesApp.Domain\\Services\\ClienteDomainService.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAACwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T13:13:39.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "G:\\Projetos\\PROJETOS COTI\\Csharp aprendendo\\Csharp COTI\\SQS MANHA 2\\ClientesApp\\ClientesApp.API\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "ClientesApp.API\\Controllers\\ClienteController.cs",
+              "ToolTip": "G:\\Projetos\\PROJETOS COTI\\Csharp aprendendo\\Csharp COTI\\SQS MANHA 2\\ClientesApp\\ClientesApp.API\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "ClientesApp.API\\Controllers\\ClienteController.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAIoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T12:40:39.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetClienteResponseDTO.cs",
+              "DocumentMoniker": "G:\\Projetos\\PROJETOS COTI\\Csharp aprendendo\\Csharp COTI\\SQS MANHA 2\\ClientesApp\\ClientesApp.API\\DTOs\\Response\\GetClienteResponseDTO.cs",
+              "RelativeDocumentMoniker": "ClientesApp.API\\DTOs\\Response\\GetClienteResponseDTO.cs",
+              "ToolTip": "G:\\Projetos\\PROJETOS COTI\\Csharp aprendendo\\Csharp COTI\\SQS MANHA 2\\ClientesApp\\ClientesApp.API\\DTOs\\Response\\GetClienteResponseDTO.cs",
+              "RelativeToolTip": "ClientesApp.API\\DTOs\\Response\\GetClienteResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T13:25:08.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateClienteResponseDTO.cs",
+              "DocumentMoniker": "G:\\Projetos\\PROJETOS COTI\\Csharp aprendendo\\Csharp COTI\\SQS MANHA 2\\ClientesApp\\ClientesApp.API\\DTOs\\Response\\UpdateClienteResponseDTO.cs",
+              "RelativeDocumentMoniker": "ClientesApp.API\\DTOs\\Response\\UpdateClienteResponseDTO.cs",
+              "ToolTip": "G:\\Projetos\\PROJETOS COTI\\Csharp aprendendo\\Csharp COTI\\SQS MANHA 2\\ClientesApp\\ClientesApp.API\\DTOs\\Response\\UpdateClienteResponseDTO.cs",
+              "RelativeToolTip": "ClientesApp.API\\DTOs\\Response\\UpdateClienteResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T13:26:03.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CORSConfiguration.cs",
+              "DocumentMoniker": "G:\\Projetos\\PROJETOS COTI\\Csharp aprendendo\\Csharp COTI\\SQS MANHA 2\\ClientesApp\\ClientesApp.API\\Configurations\\CORSConfiguration.cs",
+              "RelativeDocumentMoniker": "ClientesApp.API\\Configurations\\CORSConfiguration.cs",
+              "ToolTip": "G:\\Projetos\\PROJETOS COTI\\Csharp aprendendo\\Csharp COTI\\SQS MANHA 2\\ClientesApp\\ClientesApp.API\\Configurations\\CORSConfiguration.cs",
+              "RelativeToolTip": "ClientesApp.API\\Configurations\\CORSConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T12:42:19.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IClienteRepository.cs",
+              "DocumentMoniker": "G:\\Projetos\\PROJETOS COTI\\Csharp aprendendo\\Csharp COTI\\SQS MANHA 2\\ClientesApp\\ClientesApp.Domain\\Interfaces\\Repositories\\IClienteRepository.cs",
+              "RelativeDocumentMoniker": "ClientesApp.Domain\\Interfaces\\Repositories\\IClienteRepository.cs",
+              "ToolTip": "G:\\Projetos\\PROJETOS COTI\\Csharp aprendendo\\Csharp COTI\\SQS MANHA 2\\ClientesApp\\ClientesApp.Domain\\Interfaces\\Repositories\\IClienteRepository.cs",
+              "RelativeToolTip": "ClientesApp.Domain\\Interfaces\\Repositories\\IClienteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T12:42:45.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IClienteDomainService.cs",
+              "DocumentMoniker": "G:\\Projetos\\PROJETOS COTI\\Csharp aprendendo\\Csharp COTI\\SQS MANHA 2\\ClientesApp\\ClientesApp.Domain\\Interfaces\\Services\\IClienteDomainService.cs",
+              "RelativeDocumentMoniker": "ClientesApp.Domain\\Interfaces\\Services\\IClienteDomainService.cs",
+              "ToolTip": "G:\\Projetos\\PROJETOS COTI\\Csharp aprendendo\\Csharp COTI\\SQS MANHA 2\\ClientesApp\\ClientesApp.Domain\\Interfaces\\Services\\IClienteDomainService.cs",
+              "RelativeToolTip": "ClientesApp.Domain\\Interfaces\\Services\\IClienteDomainService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T13:13:47.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "G:\\Projetos\\PROJETOS COTI\\Csharp aprendendo\\Csharp COTI\\SQS MANHA 2\\ClientesApp\\ClientesApp.Infra.Data\\Repositories\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "ClientesApp.Infra.Data\\Repositories\\ClienteRepository.cs",
+              "ToolTip": "G:\\Projetos\\PROJETOS COTI\\Csharp aprendendo\\Csharp COTI\\SQS MANHA 2\\ClientesApp\\ClientesApp.Infra.Data\\Repositories\\ClienteRepository.cs",
+              "RelativeToolTip": "ClientesApp.Infra.Data\\Repositories\\ClienteRepository.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAD8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T12:40:50.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateClienteResponseDTO.cs",
+              "DocumentMoniker": "G:\\Projetos\\PROJETOS COTI\\Csharp aprendendo\\Csharp COTI\\SQS MANHA 2\\ClientesApp\\ClientesApp.API\\DTOs\\Response\\CreateClienteResponseDTO.cs",
+              "RelativeDocumentMoniker": "ClientesApp.API\\DTOs\\Response\\CreateClienteResponseDTO.cs",
+              "ToolTip": "G:\\Projetos\\PROJETOS COTI\\Csharp aprendendo\\Csharp COTI\\SQS MANHA 2\\ClientesApp\\ClientesApp.API\\DTOs\\Response\\CreateClienteResponseDTO.cs",
+              "RelativeToolTip": "ClientesApp.API\\DTOs\\Response\\CreateClienteResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T13:25:54.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateClienteRequestDTO.cs",
+              "DocumentMoniker": "G:\\Projetos\\PROJETOS COTI\\Csharp aprendendo\\Csharp COTI\\SQS MANHA 2\\ClientesApp\\ClientesApp.API\\DTOs\\Request\\UpdateClienteRequestDTO.cs",
+              "RelativeDocumentMoniker": "ClientesApp.API\\DTOs\\Request\\UpdateClienteRequestDTO.cs",
+              "ToolTip": "G:\\Projetos\\PROJETOS COTI\\Csharp aprendendo\\Csharp COTI\\SQS MANHA 2\\ClientesApp\\ClientesApp.API\\DTOs\\Request\\UpdateClienteRequestDTO.cs",
+              "RelativeToolTip": "ClientesApp.API\\DTOs\\Request\\UpdateClienteRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T13:24:36.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateClienteRequestDTO.cs",
+              "DocumentMoniker": "G:\\Projetos\\PROJETOS COTI\\Csharp aprendendo\\Csharp COTI\\SQS MANHA 2\\ClientesApp\\ClientesApp.API\\DTOs\\Request\\CreateClienteRequestDTO.cs",
+              "RelativeDocumentMoniker": "ClientesApp.API\\DTOs\\Request\\CreateClienteRequestDTO.cs",
+              "ToolTip": "G:\\Projetos\\PROJETOS COTI\\Csharp aprendendo\\Csharp COTI\\SQS MANHA 2\\ClientesApp\\ClientesApp.API\\DTOs\\Request\\CreateClienteRequestDTO.cs",
+              "RelativeToolTip": "ClientesApp.API\\DTOs\\Request\\CreateClienteRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T13:24:18.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "G:\\Projetos\\PROJETOS COTI\\Csharp aprendendo\\Csharp COTI\\SQS MANHA 2\\ClientesApp\\ClientesApp.Domain\\Entities\\Cliente.cs",
+              "RelativeDocumentMoniker": "ClientesApp.Domain\\Entities\\Cliente.cs",
+              "ToolTip": "G:\\Projetos\\PROJETOS COTI\\Csharp aprendendo\\Csharp COTI\\SQS MANHA 2\\ClientesApp\\ClientesApp.Domain\\Entities\\Cliente.cs",
+              "RelativeToolTip": "ClientesApp.Domain\\Entities\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T12:35:23.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Projetos\\PROJETOS COTI\\Csharp aprendendo\\Csharp COTI\\SQS MANHA 2\\ClientesApp\\ClientesApp.API\\Program.cs",
+              "RelativeDocumentMoniker": "ClientesApp.API\\Program.cs",
+              "ToolTip": "G:\\Projetos\\PROJETOS COTI\\Csharp aprendendo\\Csharp COTI\\SQS MANHA 2\\ClientesApp\\ClientesApp.API\\Program.cs",
+              "RelativeToolTip": "ClientesApp.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T13:15:48.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240524125729_Update.cs",
+              "DocumentMoniker": "G:\\Projetos\\PROJETOS COTI\\Csharp aprendendo\\Csharp COTI\\SQS MANHA 2\\ClientesApp\\ClientesApp.Infra.Data\\Migrations\\20240524125729_Update.cs",
+              "RelativeDocumentMoniker": "ClientesApp.Infra.Data\\Migrations\\20240524125729_Update.cs",
+              "ToolTip": "G:\\Projetos\\PROJETOS COTI\\Csharp aprendendo\\Csharp COTI\\SQS MANHA 2\\ClientesApp\\ClientesApp.Infra.Data\\Migrations\\20240524125729_Update.cs",
+              "RelativeToolTip": "ClientesApp.Infra.Data\\Migrations\\20240524125729_Update.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T12:57:29.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "G:\\Projetos\\PROJETOS COTI\\Csharp aprendendo\\Csharp COTI\\SQS MANHA 2\\ClientesApp\\ClientesApp.Infra.Data\\Contexts\\DataContext.cs",
+              "RelativeDocumentMoniker": "ClientesApp.Infra.Data\\Contexts\\DataContext.cs",
+              "ToolTip": "G:\\Projetos\\PROJETOS COTI\\Csharp aprendendo\\Csharp COTI\\SQS MANHA 2\\ClientesApp\\ClientesApp.Infra.Data\\Contexts\\DataContext.cs",
+              "RelativeToolTip": "ClientesApp.Infra.Data\\Contexts\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T12:41:02.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ClienteMap.cs",
+              "DocumentMoniker": "G:\\Projetos\\PROJETOS COTI\\Csharp aprendendo\\Csharp COTI\\SQS MANHA 2\\ClientesApp\\ClientesApp.Infra.Data\\Mappings\\ClienteMap.cs",
+              "RelativeDocumentMoniker": "ClientesApp.Infra.Data\\Mappings\\ClienteMap.cs",
+              "ToolTip": "G:\\Projetos\\PROJETOS COTI\\Csharp aprendendo\\Csharp COTI\\SQS MANHA 2\\ClientesApp\\ClientesApp.Infra.Data\\Mappings\\ClienteMap.cs",
+              "RelativeToolTip": "ClientesApp.Infra.Data\\Mappings\\ClienteMap.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T12:40:56.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240524125541_Initial.cs",
+              "DocumentMoniker": "G:\\Projetos\\PROJETOS COTI\\Csharp aprendendo\\Csharp COTI\\SQS MANHA 2\\ClientesApp\\ClientesApp.Infra.Data\\Migrations\\20240524125541_Initial.cs",
+              "RelativeDocumentMoniker": "ClientesApp.Infra.Data\\Migrations\\20240524125541_Initial.cs",
+              "ToolTip": "G:\\Projetos\\PROJETOS COTI\\Csharp aprendendo\\Csharp COTI\\SQS MANHA 2\\ClientesApp\\ClientesApp.Infra.Data\\Migrations\\20240524125541_Initial.cs",
+              "RelativeToolTip": "ClientesApp.Infra.Data\\Migrations\\20240524125541_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T12:55:41.383Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

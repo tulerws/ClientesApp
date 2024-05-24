@@ -1,0 +1,17 @@
+G:\Projetos\PROJETOS COTI\Csharp aprendendo\Csharp COTI\SQS MANHA 2\ClientesApp\ClientesApp.Infra.Data\bin\Debug\net8.0\ClientesApp.Infra.Data.deps.json
+G:\Projetos\PROJETOS COTI\Csharp aprendendo\Csharp COTI\SQS MANHA 2\ClientesApp\ClientesApp.Infra.Data\bin\Debug\net8.0\ClientesApp.Infra.Data.runtimeconfig.json
+G:\Projetos\PROJETOS COTI\Csharp aprendendo\Csharp COTI\SQS MANHA 2\ClientesApp\ClientesApp.Infra.Data\bin\Debug\net8.0\ClientesApp.Infra.Data.dll
+G:\Projetos\PROJETOS COTI\Csharp aprendendo\Csharp COTI\SQS MANHA 2\ClientesApp\ClientesApp.Infra.Data\bin\Debug\net8.0\ClientesApp.Infra.Data.pdb
+G:\Projetos\PROJETOS COTI\Csharp aprendendo\Csharp COTI\SQS MANHA 2\ClientesApp\ClientesApp.Infra.Data\bin\Debug\net8.0\ClientesApp.Domain.dll
+G:\Projetos\PROJETOS COTI\Csharp aprendendo\Csharp COTI\SQS MANHA 2\ClientesApp\ClientesApp.Infra.Data\bin\Debug\net8.0\ClientesApp.Domain.pdb
+G:\Projetos\PROJETOS COTI\Csharp aprendendo\Csharp COTI\SQS MANHA 2\ClientesApp\ClientesApp.Infra.Data\obj\Debug\net8.0\ClientesApp.Infra.Data.csproj.AssemblyReference.cache
+G:\Projetos\PROJETOS COTI\Csharp aprendendo\Csharp COTI\SQS MANHA 2\ClientesApp\ClientesApp.Infra.Data\obj\Debug\net8.0\ClientesApp.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projetos\PROJETOS COTI\Csharp aprendendo\Csharp COTI\SQS MANHA 2\ClientesApp\ClientesApp.Infra.Data\obj\Debug\net8.0\ClientesApp.Infra.Data.AssemblyInfoInputs.cache
+G:\Projetos\PROJETOS COTI\Csharp aprendendo\Csharp COTI\SQS MANHA 2\ClientesApp\ClientesApp.Infra.Data\obj\Debug\net8.0\ClientesApp.Infra.Data.AssemblyInfo.cs
+G:\Projetos\PROJETOS COTI\Csharp aprendendo\Csharp COTI\SQS MANHA 2\ClientesApp\ClientesApp.Infra.Data\obj\Debug\net8.0\ClientesApp.Infra.Data.csproj.CoreCompileInputs.cache
+G:\Projetos\PROJETOS COTI\Csharp aprendendo\Csharp COTI\SQS MANHA 2\ClientesApp\ClientesApp.Infra.Data\obj\Debug\net8.0\Clientes.0F6F7D6D.Up2Date
+G:\Projetos\PROJETOS COTI\Csharp aprendendo\Csharp COTI\SQS MANHA 2\ClientesApp\ClientesApp.Infra.Data\obj\Debug\net8.0\ClientesApp.Infra.Data.dll
+G:\Projetos\PROJETOS COTI\Csharp aprendendo\Csharp COTI\SQS MANHA 2\ClientesApp\ClientesApp.Infra.Data\obj\Debug\net8.0\refint\ClientesApp.Infra.Data.dll
+G:\Projetos\PROJETOS COTI\Csharp aprendendo\Csharp COTI\SQS MANHA 2\ClientesApp\ClientesApp.Infra.Data\obj\Debug\net8.0\ClientesApp.Infra.Data.pdb
+G:\Projetos\PROJETOS COTI\Csharp aprendendo\Csharp COTI\SQS MANHA 2\ClientesApp\ClientesApp.Infra.Data\obj\Debug\net8.0\ClientesApp.Infra.Data.genruntimeconfig.cache
+G:\Projetos\PROJETOS COTI\Csharp aprendendo\Csharp COTI\SQS MANHA 2\ClientesApp\ClientesApp.Infra.Data\obj\Debug\net8.0\ref\ClientesApp.Infra.Data.dll
